@@ -1,0 +1,21 @@
+{
+  "fitbit": {
+    "appUUID": "f32537ce-d1c3-4c21-b12c-885625034331",
+    "appType": "clockface",
+    "appDisplayName": "masaruya3_versa_clock_face",
+    "iconFile": "resources/icon.png",
+    "wipeColor": "#607d8b",
+    "requestedPermissions": [
+      "access_heart_rate",
+      "access_activity"
+    ],
+    "buildTargets": [
+      "meson"
+    ],
+    "i18n": {
+      "en": {
+        "name": "masaruya3_versa_clock_face"
+      }
+    }
+  }
+}
